@@ -19,3 +19,5 @@ Files of the name structure 'run-XX_XXXX.R' contain the commands that call a lan
 #### Folder 'outputs'
 
 The file 'sim_results.csv' contains the biodiversity indicator outputs for each simulation, while the file 'summary_statistics.csv' contains the summary statistics of the biodiversity indicator outputs. The file 'statistics.R' contains the code for calculating these summary statistics as well as for generating the figures visualising the summary statistics. The spatial biodiversity visualisations are automatically produced by _gen3sis_ during the course of a run. All spatial biodiversity plots in the main text are for simulations runs with seed 1. However, the analysis is completely reproducible using random seeds, so plots of all other simulation runs can be constructed as well simply by running the simulations. 
+
+The files 'abundance_sums.R' and 'divergence_sums.R' contain the algorithms for extracting the final total abundances and final total divergence parameters from the _gen3sis_ output.
