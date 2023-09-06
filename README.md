@@ -1,3 +1,6 @@
-<h3> 1071206_BCM_MSc_Dissertation <h3/>
-<h3> Seeing beyond the bottleneck: forecasting tropical forest biodiversity futures using mechanistic eco-evolutionary models <h3/>
-<h3>  Appendix: code and data <h1/>
+### 1071206_BCM_MSc_Dissertation
+### Seeing beyond the bottleneck: forecasting tropical forest biodiversity futures using mechanistic eco-evolutionary models
+### Appendix: code and data
+
+This repository contains code and data for the appendix of the dissertation described above. Instructions for interpreting and using the contents of this repository are below.
+
