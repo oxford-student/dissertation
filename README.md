@@ -17,4 +17,4 @@ Files of the name structure 'run-XX_XXXX.R' contain the commands that call a lan
 
 #### Folder 'outputs'
 
-The file 'sim_results.csv' contains the biodiversity indicator outputs for each simulation, while the file 'summary_statistics.csv' contains the summary statistics of the biodiversity indicator outputs. The file 'statistics.R' contains the code for calculating these summary statistics as well as for generating the figures visualising the summary statistics. The spatial biodiversity visualisations are automatically produced by _gen3sis during_ the course of a run.
+The file 'sim_results.csv' contains the biodiversity indicator outputs for each simulation, while the file 'summary_statistics.csv' contains the summary statistics of the biodiversity indicator outputs. The file 'statistics.R' contains the code for calculating these summary statistics as well as for generating the figures visualising the summary statistics. The spatial biodiversity visualisations are automatically produced by _gen3sis_ during the course of a run.
