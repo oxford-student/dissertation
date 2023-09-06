@@ -7,6 +7,7 @@ This repository contains code and data for the appendix of the dissertation desc
 
 #### Folder 'inputs'
 
+The file 'biodiv.R' takes the input vector species range data (see main text) and outputs 'biodiv.tif', the rasterised species ranges used in the simulation. 'biodiv.tif' is used by the configuration scripts (see Folder 'simulations') to initialise the biodiversity in each simulation. 'data-processing.R' intakes raw climate data (see main text) and outputs 'temp_26.tif', 'temp_45.tif', and 'temp_85.tif', which are RCP 2.6, 4.5, and 8.5 climate change scenarios respectively that get packaged into _gen3sis_ landscapes for the simulation. 'data-processing.R' also produces and outputs 'lc_2030' and 'lc_2050
 
 
 #### Folder 'simulations'
